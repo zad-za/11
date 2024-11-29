@@ -345,8 +345,10 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Movies  English" group-title="Movies",Movies channel English
 https://linear-796.frequency.stream/mt/studio/796/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="HBC.eg" tvg-logo="https://zad-za.github.io/11/images/fPphLl1.png" group-title="Movies",HBC
+#EXTINF:-1 tvg-id="HBC.eg" tvg-logo="https://zad-za.github.io/11/images/iptv.jpg" group-title="Movies",HBC
 https://ffs3.gulfsat.com/hbc/index.m3u8
+#EXTINF:-1 tvg-id="HBC.eg" tvg-logo="https://zad-za.github.io/11/images/beemove.png" group-title="Movies",Bee move
+https://www.youtube.com/embed/YKHWAb6b48I
 #EXTINF:-1 tvg-id="WeyyakAction.ae" tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" group-title="Movies",Weyyak Action (1080p) [Geo-blocked]
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 #EXTINF:-1 tvg-id="WeyyakDrama.ae" tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image" group-title="Movies",Weyyak Drama (720p) [Geo-blocked]
