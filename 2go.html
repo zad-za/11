@@ -11,7 +11,6 @@
 <script>
 /* Get the element you want displayed in fullscreen */ 
 var elem = document.getElementById("frame");
-
 /* Function to open fullscreen mode */
 function openFullscreen() {
   /* If fullscreen mode is available, show the element in fullscreen */
@@ -20,8 +19,7 @@ function openFullscreen() {
     document.webkitFullscreenEnabled || /* Safari */
     document.msFullscreenEnabled || /* IE11 */
   ) {
-   
-    /* Show the element in fullscreen */
+       /* Show the element in fullscreen */
     if (elem.requestFullscreen) {
       elem.requestFullscreen(); 
     } else if (elem.webkitRequestFullscreen) { /* Safari */
